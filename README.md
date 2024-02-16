@@ -1,7 +1,7 @@
 # Vapt-Roadmap
 
-###Fundamentals:
-###IT Fundamentals:
+### Fundamentals:
+### IT Fundamentals:
 Google IT Support or Comptia A+
 
 ### NETWORKING fundamental
