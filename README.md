@@ -1,1 +1,12 @@
 # Vapt-Roadmap
+
+Fundamentals:
+IT Fundamentals:
+Google IT Support or Comptia A+
+
+## nETWORKING fUNDAMNETAL
+CCNA OR NETWORK+
+
+CYBERSECURITY FUNDAMNETAL 
+
+GOOGLE CYBERSECURITY COURSE OR SECURITY +
